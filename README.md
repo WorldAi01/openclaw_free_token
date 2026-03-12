@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/popjane/free_chatgpt_api"><img src="./images/logo.png" width="125" height="125" alt="free-chatgpt-api logo"></a>
+  <a href="https://github.com/WorldAi01/openclaw_free_token"><img src="./images/logo.png" width="125" height="125" alt="free-chatgpt-api logo"></a>
 </p>
 
 <div align="center">
 
-# FREE-CHATGPT-API
+# OPNECLAW-FREE-TOKEN
 
 通过标准的 OpenAI格式免费使用ChatGPT API
 
@@ -19,17 +19,7 @@
   <img src="https://img.shields.io/badge/FREE-100%25-green_blue" alt="free">
 </p>
 
-<p align="center">
-  <a href="https://github.com/popjane/free_chatgpt_api?tab=readme-ov-file#%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D">快速开始</a>
-  ·
-  <a href="https://github.com/popjane/free_chatgpt_api?tab=readme-ov-file#%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8">使用方法</a>
-  ·
-  <a href="https://worldai.hk/github" target="_blank">立即领取免费KEY</a>
-  ·
-  <a href="https://github.com/popjane/free_chatgpt_api?tab=readme-ov-file#%E4%BB%98%E8%B4%B9api">付费极速API</a>
-  ·
-  <a href="https://github.com/popjane/free_chatgpt_api?tab=readme-ov-file#%E5%B8%B8%E7%94%A8%E5%BA%94%E7%94%A8%E6%94%AF%E6%8C%81">应用支持</a>
-</p>
+
 
 
 
