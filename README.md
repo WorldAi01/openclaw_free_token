@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# OPNECLAW-FREE-TOKEN
+# WorldAi
 
 通过标准的 OpenAI格式免费使用ChatGPT API
 
@@ -31,14 +31,9 @@
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 > 该项目API仅用于非商业性的学习、研究、科研测试等合法用途，不得用于任何违法违规用途以及商业用途，否则后果自负。
 
-> [!TIP]
-> 本项目仅供个人学习使用，不保证稳定性，且不提供任何技术支持。  
-> 已经发现上百个机器号自动领取KEY批量跑API的行为，严重影响了正常用户的使用。当前限制RPM为96，超过将被CC拦截。  
-> 公益项目，请勿大量高并发使用，如需高并发API请求，请支持付费API哦！
-
 ## 项目介绍
 
-1. 标准的OpenAI接口请求格式（付费版额外支持Cluade/Gemini等原生请求格式）。
+1. 标准的OpenAI接口请求格式（额外支持Cluade/Gemini等原生请求格式）。
 2. 支持流式响应输出。
 3. 完美兼容各类开源的GPT项目/应用/软件。
 
@@ -52,7 +47,7 @@
 
 ### API特点
 
-1. 更低延迟、高性能、高可用、高并发、直连官方API（无逆向、无多层中转、非Azure），享受极致体验。
+1. 低延迟、高性能、高可用、高并发、直连官方API（无逆向、无多层中转、非Azure），享受极致体验。
 2. 支持OpenAI所有模型，包括（联网、绘画、聊天、训练、图片分析、GPTs等）目前已支持600+模型。
 3. gpt4价格仅为官网价格的2.8-3折之间，gpt-3.5系列模型为1.4-2折之间，白菜价格。
 4. 定价策略透明公开，模型扣费倍率与官网同步（甚至更低），永不暗调倍率，无低价格却又高倍率陷阱。
@@ -67,7 +62,10 @@
 > 所有应用的API地址（BaseUrl）为`https://worldai.hk`
 > 教程图片中的api地址前缀请更换为`https://worldai.hk`
 
-### 一、ChatGPT.好友插件
+### 一、WorldAi
+> 由WorldAi提供的web端支持![WorldAi官方](https://worldai.hk/chat)，可选600+种ai模型，支持聊天、画图、视频、音乐。
+
+### 二、ChatGPT.好友插件
 
 > 该插件为utools的一个插件，支持自定义模型、一键呼出，即用既走，超级面板，在pc任意位置均可快速发送消息。支持Ai聊天、绘画、语音对话、多api管理、多key绑定、角色独立聊天记录、一键查余额。桌面端的神器，但不支持移动端。
 >
@@ -83,7 +81,7 @@
 
 ![ChatGPT.好友](./images/free_utools1.png)
 
-### 二、开源应用Chatgpt-next-web（ChatGPT-Midjourney）
+### 三、开源应用Chatgpt-next-web（ChatGPT-Midjourney）
 
 > [开源Chatgpt-next-web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) 这是一个开源web聊天工具，只支持聊天。
 > 
@@ -94,7 +92,7 @@
 点击设置图标。找到自定义接口设置，配置如下：
 ![Chatgpt-next-web](./images/free_chatgpt-next-web.png)
 
-### 三、Lobe-chat
+### 四、Lobe-chat
 
 > [Lobe-chat](https://github.com/lobehub/lobe-chat) 是一个开源的聊天应用，支持聊天、绘画、语音对话等。
 
@@ -102,19 +100,19 @@
 
 ![lobe-chat](./images/free_lobe-chat.png)
 
-### 四、BotGem
+### 五、BotGem
 
 > [BotGem](https://botgem.com/) 非开源工具，支持PC和移动端，功能单一，只支持聊天，但多端适配。
 
 绑定方法类似上方截图教程，填写免费API地址`https://worldai.hk`+`apikey` 即可。
 
-### 五、ChatBox
+### 六、ChatBox
 
 > [ChatBox](https://github.com/Bin-Huang/chatbox) 支持桌面端APP版和web版，点开setting按钮配置即可。
 
 绑定方法类似上方截图教程，填写免费API地址`https://worldai.hk`+`apikey` 即可。
 
-### 六、FastGPT
+### 七、FastGPT
 
 > [FastGPT](https://github.com/labring/FastGPT) 支持知识库的聊天应用。
 
