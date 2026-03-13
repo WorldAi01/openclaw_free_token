@@ -63,7 +63,7 @@
 > 教程图片中的api地址前缀请更换为`https://worldai.hk`
 
 ### 一、WorldAi
-> 由WorldAi提供的web端支持![WorldAi官方](https://worldai.hk/chat)，可选600+种ai模型，支持聊天、画图、视频、音乐。
+> 由WorldAi提供的web端支持[WorldAi官方](https://worldai.hk/chat)，可选600+种ai模型，支持聊天、画图、视频、音乐。
 
 ### 二、ChatGPT.好友插件
 
